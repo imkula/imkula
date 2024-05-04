@@ -1,6 +1,6 @@
 <p><h1 align="center">Hi, I'm Kulaaa 👾</h1></p>
 <p align="center">
-<a href="https://twitter.com/imkula" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Logo"></a>
+<a href="https://twitter.com/imkulaa" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Logo"></a>
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=imkula&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%imkula" alt="Visitor"></p>
 
